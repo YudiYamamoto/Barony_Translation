@@ -3,7 +3,7 @@ Repository teaching how to manually translate the game Barony, without needing t
 
 ## Edit file
 
-In: steamapps > common > Barony > lang.  
+In: **steamapps > common > Barony > lang.**
 
 Edit the **en.txt** file where there are numbers
 
